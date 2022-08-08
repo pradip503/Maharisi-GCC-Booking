@@ -13,12 +13,4 @@ phases:
 # Include only the files required for your application to run.
 artifacts:
   files:
-    - backend/package.json
-    - backend/app.js
-    - backend/_helpers/*
-    - backend/controllers/*
-    - backend/models/*
-    - backend/routes/*
-    - backend/middlewares/*
-    - backend/services/*
-    - backend/utils/*
+    - backend/*
